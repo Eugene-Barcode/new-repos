@@ -19,3 +19,10 @@ class Counter {
         }
     }
 }
+
+class Pursuit {
+    public static void main () {
+        System.out.println("The warming sun returns again");
+        System.out.println("And melts away the snow");
+    }
+}
