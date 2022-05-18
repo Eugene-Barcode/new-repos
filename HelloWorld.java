@@ -10,6 +10,7 @@ public class HelloWorld {
     }
 }
 
+
 class Counter {
     public static void main () {
         int x = 10;
@@ -17,5 +18,12 @@ class Counter {
             System.out.println("Counting " + x);
             x -= 1;
         }
+    }
+}
+
+
+class Storm {
+    public static void main() {
+        System.out.println("I am an eye of the storm")
     }
 }
