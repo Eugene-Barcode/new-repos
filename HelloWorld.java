@@ -24,6 +24,7 @@ class Counter {
 
 class Storm {
     public static void main() {
-        System.out.println("I am an eye of the storm")
+        System.out.println("I am an eye of the storm");
+        System.out.println("I am silent and strong");
     }
 }
