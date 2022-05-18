@@ -4,5 +4,6 @@ public class HelloWorld {
         System.out.println("The second commit");
         String name = "Yevhen";
         String nickname = "Barcode";
+        System.out.println(name + nickname);
     }
 }
